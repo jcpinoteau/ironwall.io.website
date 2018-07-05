@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://ironwall.io/"
+baseURL = "https://www.ironwall.io/"
 languageCode = "fr-fr"
 title = "ironwall.io - the future is now"
 theme = "forty"
