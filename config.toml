@@ -174,9 +174,9 @@ disqusShortname = ""
 
     [[params.contact.address]]
     title = "Adresse"
-    street = ""
-    city = "Paris"
-    country = "France"
+    street = "Paris"
+    city = "France"
+    country = ""
 
   # Footer section
   [params.footer]
