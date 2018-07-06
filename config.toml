@@ -5,7 +5,7 @@ title = "ironwall.io - the future is now"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-121933345-1"
 
 # Enter your disqus shortname to enable comments
 disqusShortname = ""
